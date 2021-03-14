@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652999157151",
+    "firebase_url": "https://formerapp-f3a19.firebaseio.com",
+    "project_id": "formerapp-f3a19",
+    "storage_bucket": "formerapp-f3a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652999157151:android:4ee6e636e693d4ecb4c9aa",
+        "android_client_info": {
+          "package_name": "com.formerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652999157151-cb9bkg4dgf1h6hnhn8pteki3h9in4jlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1NmGGnjxH_v1QQc_HbF4V6blyGMzE_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652999157151-cb9bkg4dgf1h6hnhn8pteki3h9in4jlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
